@@ -2,7 +2,7 @@
     <div>
         <div class="success-box">
             <Space>
-                <div class="py-2">
+                <div class="py-6">
                     <div class="w-full flex">
                         <div class="w-full"></div>
                         <button @click="handleOpenCloseSuccess">

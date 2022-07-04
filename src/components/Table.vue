@@ -477,7 +477,7 @@ table {
   }
 }
 
-.side {
+.sides {
   width: 100%;
   @media (min-width: 1000px) {
     width: 50%;
