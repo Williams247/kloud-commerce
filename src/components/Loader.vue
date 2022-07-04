@@ -1,0 +1,21 @@
+<template>
+<div class="loading"></div>
+</template>
+
+<style lang="scss" scoped>
+.loading {
+  height: 0;
+  width: 0;
+  padding: 15px;
+  border: 6px solid #ccc;
+  border-right-color: #888;
+  border-radius: 22px;
+  animation: rotate 1s infinite linear;
+}
+
+@keyframes rotate {
+  100% {
+    transform: rotate(360deg);
+  }
+}
+</style>
