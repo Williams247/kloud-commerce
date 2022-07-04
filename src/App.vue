@@ -24,5 +24,6 @@ export default {
 #layout-view {
   background: #f3f5fa;
   padding-bottom: 160px;
+  min-height: 100vh;
 }
 </style>
